@@ -2,12 +2,12 @@
 title: DELFT
 date: 2020-04-16 10:21:36
 tags:
-excerpt: 代尔夫特的设计指南
+excerpt: 代尔夫特设计指南
 photos: https://picsum.photos/600/400/?random
 ---
 Inline styles：
 
-
+**strong**, *emphasis*, ***strong and emphasis***,`code`, <u>underline</u>, ~~strikethrough~~, :joy:🤣, [Link](https://example.com), and image:
 
 ![img](https://picsum.photos/600/400/?random)
 
@@ -34,3 +34,22 @@ Headings:
 
 *我该如何在多种方案中挑选最合适的方案？
 
+Table:
+
+| Left-Aligned  | Center Aligned  | Right Aligned |
+| :------------ | :-------------: | ------------: |
+| col 3 is      | some wordy text |         $1600 |
+| col 2 is      |    centered     |           $12 |
+| zebra stripes |    are neat     |            $1 |
+
+Lists:
+
+* Unordered list item 1.
+* Unordered list item 2.
+
+1. ordered list item 1.
+2. ordered list item 2.
+   + sub-unordered list item 1.
+   + sub-unordered list item 2.
+     + [x] something is DONE.
+     + [ ] something is NOT DONE.
