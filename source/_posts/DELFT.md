@@ -3,13 +3,11 @@ title: DELFT
 date: 2020-04-16 10:21:36
 tags:
 excerpt: 代尔夫特设计指南
-photos: https://picsum.photos/600/400/?random
+photos: 
 ---
-Inline styles：
 
-**strong**, *emphasis*, ***strong and emphasis***,`code`, <u>underline</u>, ~~strikethrough~~, :joy:🤣, [Link](https://example.com), and image:
 
-![img](https://picsum.photos/600/400/?random)
+
 
 ---
 ## *设计是一种旨在创新，并实现创新的行为。*
