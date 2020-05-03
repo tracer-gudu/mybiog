@@ -3,7 +3,7 @@ title: DELFT
 date: 2020-04-18 10:21:36
 tags: 所谓方法
 excerpt: 代尔夫特设计指南
-photos: ![mmexport1588485974507.jpg](https://i.loli.net/2020/05/03/sfbe6qR4NYj1kM8.jpg)
+photos: 
 categories: 所见所思
 ---
 
