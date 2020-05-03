@@ -1,10 +1,9 @@
 ---
-title: 每日口令
-date: 2020-05-03 12:55:34
-excerpt: 在家的水手，看见世界的码头
-tags: 所见所得
-categories:
-  - Diary
+title: 四月琐碎
+date: 2020-04-20 12:55:34
+excerpt: 当每个叶子都有故事对你说
+tags: 文艺时刻
+categories: 所思所得
 index_img:  https://i.loli.net/2020/05/03/1pdquwmhvEbI2Zc.jpg
 banner_img: https://i.loli.net/2020/05/03/ILpOEGvhH2Wyjwq.gif
 ---
@@ -12,7 +11,7 @@ banner_img: https://i.loli.net/2020/05/03/ILpOEGvhH2Wyjwq.gif
 
 #### 呼叫81192，请返航回家
 
-![mmexport1588485933649.jpg](https://i.loli.net/2020/05/03/jnZyftdrhwqvxJN.jpg)
+
 
 ---
 04.22 口令： **敬礼**  
