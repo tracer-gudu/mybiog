@@ -1,7 +1,7 @@
 ---
 title: DELFT
 date: 2020-04-18 10:21:36
-tags: 所谓方法
+tags: 高谈阔论
 excerpt: 代尔夫特设计指南
 photos: 
 categories: 所见所思

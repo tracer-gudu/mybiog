@@ -30,8 +30,8 @@ social:
   rss: 
 # friends
 friends:
-  friendA: //www.baidu.com
-  friendB: //www.google.com
+  friendA: //free-living.netlify.app/
+  friendB: //morchiinote.netlify.app/
   friendC: 
 about:
   enable: true
